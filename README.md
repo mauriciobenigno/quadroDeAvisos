@@ -18,10 +18,10 @@ Para executar, basta seguir a ordem;
   
   
 2º Executar Emissor de Alertas -> EmissorDeAlertas.java
-  -> Esse programa já possui interface gráfica, e serve para emitir os alertas.
+  - Esse programa já possui interface gráfica, e serve para emitir os alertas.
+  
+  
 3º Executar Quadro de Alertas -> QuadroDeAlertas.java
-
-
   - Esse programa também possui interface gráfica, e é responsavel por mostrar 
   os alertas recebidos.
   
